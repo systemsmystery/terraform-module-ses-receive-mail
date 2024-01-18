@@ -1,3 +1,10 @@
+## [1.0.1](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-ses-receive-mail/compare/v1.0.0...v1.0.1) (2024-01-18)
+
+
+### Bug Fixes
+
+* corrected reference to rule set name ([5abfb83](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-ses-receive-mail/commit/5abfb83ea5f2ebd48241e1df142c5726c2474738))
+
 ## 1.0.0 (2024-01-18)
 
 
